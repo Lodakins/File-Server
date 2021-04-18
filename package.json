@@ -1,0 +1,20 @@
+{
+  "name": "file-server",
+  "version": "1.0.0",
+  "description": "This is a node file creator and writer server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "server",
+    "read",
+    "write"
+  ],
+  "author": "Akinrolabu Lolade",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
